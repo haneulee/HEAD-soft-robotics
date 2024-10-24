@@ -2,7 +2,7 @@
 
 ## from observations to your first prototypes for interaction design
 
-Sand can be used as a soft material
+Sand can be used as a soft material  
 Elephant trunk soft robot
 
 ### Iteration
@@ -27,7 +27,7 @@ just think of one thing
 
 **[teenage engineering](https://teenage.engineering/)**
 
-- Playdate
+- Playdate  
   simple interaction but, it has lots of meanings
   katamari damacy
 
@@ -50,17 +50,17 @@ Ian Cheng Emissaries - robot
 
 ### Input & Output
 
-input : stroke, pressure, temperature
+input : stroke, pressure, temperature  
 output : ambient light, wiggle, melody
 
-ex) collecting - Elie Hofer
-input : memories
-output : a story
-ex) emoty - marine faroud boget
-input :
-output :
-ex) spectral yard - faustine perillaud
-input : plugging a device
+ex) collecting - Elie Hofer  
+input : memories  
+output : a story  
+ex) emoty - marine faroud boget  
+input :  
+output :  
+ex) spectral yard - faustine perillaud  
+input : plugging a device  
 output : a plant with a story to tell
 
 ### Exercise 1
@@ -105,45 +105,46 @@ using your ideas from exercised 1, 2, write a short paragraph in markdown that d
 <details>
 <summary>AI response 1</summary>
 <div markdown="1">
+
 That sounds like a fascinating project, integrating soft robotics and cat behavior! Based on the observations you’ve made, you’re already thinking carefully about how to design a robot that can interact effectively with your cat. I can offer some suggestions and questions to help guide your project based on your goals and observations.
 
-### 1. **Touch Interaction:**
+1. **Touch Interaction:**
 
 - **Observation**: You’ve observed the parts of your cat’s body where they like to be touched.
 - **Application**: Design the soft robot with sensors and a gentle, flexible surface that can mimic your touch in those specific areas. This will make the robot more appealing to your cat and help it build trust with the robot.
 - **Questions**: Could your robot detect where your cat approaches or leans in, suggesting where it wants to be touched? Would there be a difference in touch behavior when your cat is calm vs. playful?
 
-### 2. **Behavioral Modeling (Cat’s Perspective):**
+2. **Behavioral Modeling (Cat’s Perspective):**
 
 - **Observation**: Understanding your cat’s perception of your behavior helps model how the robot should act. For example, cats may view certain human movements as play invitations, threats, or care behaviors.
 - **Application**: Program the robot to move in ways that align with these behaviors (e.g., slow movements to appear non-threatening, quick flicks for play).
 - **Questions**: How does your cat interpret your body language when you’re trying to play versus when you’re feeding him? Can the robot switch between these modes automatically?
 
-### 3. **Interest-Based Interaction:**
+3. **Interest-Based Interaction:**
 
 - **Observation**: You’ve noted what your cat is interested in.
 - **Application**: The robot can include these items or motions (feathers, light trails, small toys) in its play routines. You could design attachments or interactive elements to keep the robot adaptable to new stimuli.
 - **Questions**: Would the robot be able to present a variety of stimuli to see which ones your cat prefers at different times of the day?
 
-### 4. **Emotional Responses to Sound:**
+4. **Emotional Responses to Sound:**
 
 - **Observation**: Tracking how your cat responds emotionally to sound is critical in interaction.
 - **Application**: Incorporate sound sensors and speakers in the robot to detect your cat’s vocalizations and play calming or engaging sounds in response.
 - **Questions**: Could the robot adjust its behavior (e.g., speaking softly or playing sounds) based on your cat’s emotional response? Would there be a way to synchronize sound and movement to engage the cat in different moods?
 
-### 5. **Tracking Movements:**
+5. **Tracking Movements:**
 
 - **Observation**: Monitoring your cat’s movements will help understand activity patterns and detect when it’s time to engage.
 - **Application**: Integrate lightweight tracking (via sensors or camera vision) to monitor your cat’s movements and direct the robot toward it. The robot could follow your cat or wait in specific places to engage when the cat passes by.
 - **Questions**: Could the robot predict where your cat is going and move to intercept it? Would it know when to stop following the cat to avoid being a nuisance?
 
-### 6. **Favorite and Least Favorite Places:**
+6. **Favorite and Least Favorite Places:**
 
 - **Observation**: Knowing where your cat prefers to spend time or avoid can improve how the robot interacts.
 - **Application**: Program the robot to avoid certain areas or spend more time in places your cat feels comfortable. You could create safe zones where the robot doesn’t follow to respect your cat’s alone time.
 - **Questions**: Should the robot "rest" in the cat’s favorite spot and only engage when your cat approaches it? Could the robot encourage the cat to explore places it usually avoids by placing toys or food there?
 
-### 7. **Timing:**
+7. **Timing:**
 
 - **Observation**: Understanding when your cat wants to be alone is crucial to the robot’s social interaction model.
 - **Application**: Use behavioral patterns and activity monitoring to schedule the robot’s activity—playing, feeding, or being inactive at appropriate times. You could also design a mode where the robot "understands" when to leave your cat alone based on his actions or vocal cues.
@@ -167,29 +168,29 @@ What do you think about these ideas? How do you envision the robot handling thes
 <div markdown="2">
 Your project is fascinating, as it merges robotics, animal behavior, and emotional interaction. You're focusing on understanding your cat’s perspective while developing a soft robot that interacts with him in meaningful ways. Let’s refine the concept by addressing key aspects of interaction, feedback loops, and how the robot's agency and personality could be designed to better align with your goals.
 
-### **1. Core Concepts for the Robot’s Design:**
+**1. Core Concepts for the Robot’s Design:**
 
-#### **Purpose**:
+**Purpose**:
 
 The robot acts as an intermediary between you and your cat. It provides engagement, nourishment, or communication by interpreting your cat’s behavior, sound, and preferences in real-time.
 
-#### **Key Interaction (KF)**:
+**Key Interaction (KF)**:
 
 Let’s define this interaction as the "Key Feedback" interaction (KF). In essence, this is the most critical part of the feedback loop where the robot recognizes a signal (input) and translates it into a meaningful action (output). KF could be:
 
 - **Cat's sound** → Robot provides food, color display, or translation.
 - **Cat's movement** → Robot responds with gestures, motions, or training exercises.
 
-### **2. Input and Output Design:**
+**2. Input and Output Design:**
 
-#### **Input:**
+**Input:**
 
 The input can be based on two major sources:
 
 - **Sound**: Vocalizations from your cat that the robot interprets. The cat’s meows, purrs, or other sounds serve as communication cues.
 - **Movement**: The robot senses where the cat is, how it moves, and adjusts its behavior accordingly.
 
-#### **Output**:
+**Output**:
 
 The robot reacts by:
 
@@ -197,7 +198,7 @@ The robot reacts by:
 - **Emotion Representation**: The robot could use color to reflect your cat’s mood (e.g., blue for calm, red for agitated, green for playful).
 - **Translation**: The robot can audibly or visually express what the cat’s sound might mean, allowing you to "understand" his mood.
 
-### **3. Gestures:**
+**3. Gestures:**
 
 Gestures are essential in maintaining a tactile and emotional connection with your cat. Here’s how each could be implemented:
 
@@ -206,7 +207,7 @@ Gestures are essential in maintaining a tactile and emotional connection with yo
 - **Tension and Move**: These gestures are useful for play. The robot might pull back or tense to mimic prey-like behavior, sparking curiosity or chase play.
 - **Speak**: The robot can emit sounds similar to your voice or make calming tones based on your cat’s emotional state.
 
-### **4. Agency**:
+**4. Agency**:
 
 The robot needs **limited autonomy** to respond to your cat naturally. It could have:
 
@@ -214,7 +215,7 @@ The robot needs **limited autonomy** to respond to your cat naturally. It could 
 - **Proactive Behavior**: When your cat is idle or moving toward a favorite play area, the robot can initiate play by presenting a toy or moving in a way to invite engagement.
 - **Adaptive Learning**: Over time, the robot can learn your cat's patterns (when he likes to be alone, when he is hungry, etc.) and adjust its actions to better fit his routines.
 
-### **5. Personality**:
+**5. Personality**:
 
 Giving the robot a personality enhances its role in your home. Based on your cat's preferences, you could design the robot's personality to be:
 
@@ -222,7 +223,7 @@ Giving the robot a personality enhances its role in your home. Based on your cat
 - **Calm and Caring**: The robot could mimic soothing behaviors like soft purring, slow movements, or even "cuddling" your cat when it's time to relax.
 - **Supportive Trainer**: For training, the robot would have a more instructive personality, gently guiding your cat’s behavior with positive reinforcement (like sound cues or food rewards).
 
-### **6. Feedback Loop**:
+**6. Feedback Loop**:
 
 The feedback loop involves **constant interaction** between your cat’s behavior, the robot’s response, and the ongoing refinement of the robot’s actions.
 
@@ -232,11 +233,11 @@ The feedback loop involves **constant interaction** between your cat’s behavio
 
 For example, the robot might initially provide food whenever your cat meows, but after a while, it learns to differentiate between a "hungry meow" and a "play meow," thus fine-tuning its responses.
 
-### **7. Why This Matters:**
+**7. Why This Matters:**
 
 The overall goal of your project is to **understand your cat’s perspective** by giving the robot the ability to interpret and respond to your cat’s signals in real-time. By doing this, you’re creating a **harmonious interaction** where both you and your cat feel understood. This robot won’t just be a pet tool; it will function almost like a bridge between human and animal, fostering emotional connection and mutual understanding.
 
-### **Summary of Key Elements:**
+**Summary of Key Elements:**
 
 - **Core Interaction**: Cat's sound or movement → Robot’s action (feeding, emotional display, translation).
 - **Gestures**: Embrace, touch, move, tension, speak to engage on a tactile and emotional level.

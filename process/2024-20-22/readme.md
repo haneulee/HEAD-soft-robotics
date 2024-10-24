@@ -1,6 +1,6 @@
 # 2024-10-22
 
-[Hugging face]()
+[Hugging face](https://huggingface.co/)
 
 ## storyboard
 

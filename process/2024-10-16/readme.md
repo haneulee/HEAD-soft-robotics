@@ -1,6 +1,6 @@
 # 2024-10-16
 
-eniarof
+[eniarof](https://www.eniarof.com/)
 
 **Usually, mothers use surveillance cameras a lot when taking care of their babies, but babies are afraid of cameras. So, when the flubber cushion and the baby's position get closer, the flubber cushion makes a whistling sound.**
 
@@ -10,7 +10,7 @@ thoughtless acts - jane fultron
 
 mismatch - kat holmes
 
-Domestic spaces
+## Domestic spaces
 
 Living entities around us
 
