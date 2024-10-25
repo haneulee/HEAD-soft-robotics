@@ -1,5 +1,7 @@
 # Soft robots
 
+Soft robotics is a field of robotics that focuses on the design and development of robots made from soft and flexible materials. Unlike traditional rigid robots, soft robots are capable of interacting with their environment in a more natural and adaptive way. They are often inspired by biological systems and can perform tasks that are difficult or impossible for rigid robots, such as navigating complex and dynamic environments, interacting safely with humans, and manipulating delicate objects. Soft robotics has applications in various industries, including healthcare, manufacturing, and exploration.
+
 **Fluid Interactions: Designing Soft Robotics for Domestic Spaces**
 
 **Soft robots** is a semester project at the [Master Media Design](https://www.hesge.ch/head/formations-recherche/master-en-media-design) of [HEAD-Genève](http://hesge.ch/head), collaboration with the [CEA](https://www.cea.fr/), [CNRS](https://www.cnrs.fr/fr), [INRIA](https://www.inria.fr/en).
