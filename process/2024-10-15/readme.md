@@ -58,7 +58,7 @@ https://prezi.com/view/iAZbDQRyhIEKjYC3xuaf/
 
 ---
 
-![image1](./images/IMG_5202.HEIC)
-![image2](./images/IMG_5203.HEIC)
-![image3](./images/IMG_5355.HEIC)
-![image4](./images/IMG_5356.HEIC)
+![image1](./images/IMG_5202.png)
+![image2](./images/IMG_5203.png)
+![image3](./images/IMG_5355.png)
+![image4](./images/IMG_5356.png)

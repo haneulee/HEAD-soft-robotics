@@ -52,28 +52,28 @@
 
 ### Title
 
-    Moodiator (or Moodie) - A Soft Robot for Reconciliation
+**Moodiator (or Moodie)** - A Soft Robot for Reconciliation
 
 <!-- Mood meditator -->
 
 ### Single Phrase Summary
 
-    A soft robot that eases emotions and promotes reconciliation through gentle distractions.
+A soft robot that eases emotions and promotes reconciliation through gentle distractions.
 
 ### Keywords
 
-    Interaction:
-        Emotional Relief, Reconciliation, Playful Distraction
-    Sensors:
-        Audio Detection, Proximity Detection, Motion Detection
-    Actuators:
-        Gentle Vibration, Purring Sound, Soft Movement, Ambient Light
-    Context:
-        Domestic Conflict, Relationship Reconciliation, Calming Atmosphere
+- Interaction
+  - Emotional Relief, Reconciliation, Playful Distraction
+- Sensors
+  - Audio Detection, Proximity Detection, Motion Detection
+- Actuators
+  - Gentle Vibration, Purring Sound, Soft Movement, Ambient Light
+- Context
+  - Domestic Conflict, Relationship Reconciliation, Calming Atmosphere
 
 ### Summary Paragraph
 
-    Moodiator is a domestic soft robot inspired by cats, designed to help defuse tense conversations and foster reconciliation between people. Just as cats often lighten the mood with playful distractions, affectionate gestures, this soft robot uses similar behaviors to help shift attention away from conflict, calm heightened emotions. By offering a comforting presence and engaging interactions, Moodiator create a more peaceful atmosphere in the home, supporting healthier relationships and emotional well-being.
+**Moodiator** is a domestic soft robot inspired by cats, designed to help defuse tense conversations and foster reconciliation between people. Just as cats often lighten the mood with playful distractions, affectionate gestures, this soft robot uses similar behaviors to help shift attention away from conflict, calm heightened emotions. By offering a comforting presence and engaging interactions, Moodiator create a more peaceful atmosphere in the home, supporting healthier relationships and emotional well-being.
 
 ## Paper Prototypes
 
@@ -104,6 +104,11 @@ Based on the movements of a cat's tail, this robot sways its tail and approaches
 | ----------------------- | ----------------------- |
 
 When conflicts arise at home, this robot draws attention with vibrant movements and lights, releasing dust into the air. Alternatively, while people are working to resolve their conflict, the robot creates minor messes around the house to divert their attention and lighten the atmosphere.
+
+### failures
+
+| ![](./images/failure1.png) | ![](./images/failure2.png) | ![](./images/failure3.png) |
+| -------------------------- | -------------------------- | -------------------------- |
 
 ## Storyboards
 
