@@ -1,8 +1,6 @@
 # 2024-11-06
 
-## Observations & Field Research
-
-### 1. Observations
+## Observations
 
 ![](./images/cat%20posture.png)
 ![](./images/cat%20posture%20-%20drawing.png)
@@ -10,20 +8,20 @@
 ![](./images/observation2.jpg)
 ![](./images/observation3.jpg)
 
-### 2. Research
+## Research
 
 ![](./images/cat%20vocalization.png)
 ![](./images/righting%20reflex.png)
 
-### 3. Idea Development
+## Idea Development
 
-**Why do you like cats?**
+### **Why do I like my cat?**
 
-- because I like that they are fluffy and flexible so I can feel more cozy when I touch them
-- when I'm sad or depressed, I want to pet them and hug them in order to make it feel better
-- **sometimes, he helps us to reconcile** ✅
+- because I like that he is so fluffy and flexible, making me feel cozy when I touch him
+- when I'm sad or depressed, petting and hugging him makes me feel better
+- **sometimes, he even helps us to reconcile** ✅
 
-**Survey**
+### **Survey**
 
 👉 How do pets help you to reconcile with others?
 
@@ -31,27 +29,121 @@
 
 ![](./images/survey.png)
 
-#### 1. Title
+1. **What behavior of your pet most effectively lightens the mood during an argument?**
+   1. Rubbing against you
+   2. Acting playfully
+2. **What sound made by your pet lifts your spirits or relieves tension during a conflict?**
+   1. Soft purring
+   2. A soothing vocalization
+3. **When your pet intervenes during a disagreement, what behavior helps ease the tension?**
+   1. Sitting between people
+4. **How does your pet help calm your emotions?**
+   1. Approaching for affection
+5. **When does your pet make you feel happy?**
+   1. Cuddling with you during tough times
+   2. Greeting you excitedly
+6. **When you are angry, how does your pet's presence affect your feelings?**
+   1. It calms me down
+   2. It distracts me from my anger
+7. **How important is your pet's behavior in resolving conflicts?**
+   1. Somewhat important
 
-**"Moodiator (or Moodie): A Soft Robot for Reconciliation"**
+## Concept
+
+### Title
+
+    Moodiator (or Moodie) - A Soft Robot for Reconciliation
 
 <!-- Mood meditator -->
 
-#### 2. Single Phrase Summary
+### Single Phrase Summary
 
-"A soft robot that eases emotions and fosters reconciliation by offering gentle distractions."
+    A soft robot that eases emotions and promotes reconciliation through gentle distractions.
 
-#### 3. Keywords
+### Keywords
 
-- **Interaction**: Emotional Relief, Reconciliation, Playful Distraction
-- **Sensors**: Audio Detection, Proximity Detection, Motion Detection
-<!-- - **Actuators**: Light Blinking, Gentle Vibration, Nuzzling Motion, Paw Tapping -->
-- **Robot’s Intention**: De-escalation, Emotional Soothing, Engaging Distraction
-- **Context**: Domestic Conflict, Relationship Reconciliation, Calming Atmosphere
+    Interaction:
+        Emotional Relief, Reconciliation, Playful Distraction
+    Sensors:
+        Audio Detection, Proximity Detection, Motion Detection
+    Actuators:
+        Gentle Vibration, Purring Sound, Soft Movement, Ambient Light
+    Context:
+        Domestic Conflict, Relationship Reconciliation, Calming Atmosphere
 
-#### 4. Summary Paragraph
+### Summary Paragraph
 
-**Moodiator** is a domestic soft robot inspired by the calming influence of cats, designed to help defuse tense conversations and foster reconciliation between people. Just as cats often lighten the mood with playful distractions, affectionate gestures, or a gentle nuzzle, this soft robot uses similar behaviors to de-escalate emotions. The robot provides subtle, non-verbal cues that help shift attention away from conflict, ease heightened emotions, and ultimately guide people toward a calmer, more balanced state of mind. By offering a comforting presence and engaging interactions, Moodiator aims to create a more harmonious atmosphere in the home, supporting healthier relationships and emotional well-being.
+    Moodiator is a domestic soft robot inspired by cats, designed to help defuse tense conversations and foster reconciliation between people. Just as cats often lighten the mood with playful distractions, affectionate gestures, this soft robot uses similar behaviors to help shift attention away from conflict, calm heightened emotions. By offering a comforting presence and engaging interactions, Moodiator create a more peaceful atmosphere in the home, supporting healthier relationships and emotional well-being.
+
+## Paper Prototypes
+
+### **Robot Using the Cat's Righting Reflex**
+
+| ![](./images/right-reflex.png) | ![](./images/right-reflex2.png) |
+| ------------------------------ | ------------------------------- |
+
+By utilizing a cat's righting reflex, the robot rolls toward people in the household during conflict situations, showing amusing movements based on this reflex. This helps to divert attention and guide the situation toward conflict resolution.
+
+### **Schrödinger's Cat-Inspired Robot**
+
+| ![](./images/schrod.png) | ![](./images/schrod2.png) |
+| ------------------------ | ------------------------- |
+
+Inspired by Schrödinger's cat, the robot usually operates in hidden mode, concealing its presence. During conflict, it transforms into bright and warm colors, approaching people to signal a shift from a state of “non-existence” to “existence.” Through light, vibration, and soft touch, it provides emotional comfort and helps ease tension.
+
+### **Robot Using Cat Tail Movements**
+
+| ![](./images/tail.png) | ![](./images/tail.gif) |
+| ---------------------- | ---------------------- |
+
+Based on the movements of a cat's tail, this robot sways its tail and approaches people during conflict situations, giving a soft vibration to help ease the tension. Just as a cat puffs up its tail when frightened, the robot sways its tail in times of conflict to convey a sense of calm and reassurance.
+
+### **Messy Robot**
+
+| ![](./images/messy.png) | ![](./images/messy.gif) |
+| ----------------------- | ----------------------- |
+
+When conflicts arise at home, this robot draws attention with vibrant movements and lights, releasing dust into the air. Alternatively, while people are working to resolve their conflict, the robot creates minor messes around the house to divert their attention and lighten the atmosphere.
+
+## Storyboards
+
+### **Robot Using the Cat's Righting Reflex**
+
+| Order | Image                                        | Description                                                   |
+| ----- | -------------------------------------------- | ------------------------------------------------------------- |
+| 1     | <img src="./images/image-1.png" width="200"> | Two people start arguing in the living room.                  |
+| 2     | <img src="./images/image-2.png" width="200"> | The soft robot rolls between them, showing a righting reflex. |
+| 3     | <img src="./images/image-3.png" width="200"> | The robot's funny movements grab their attention.             |
+| 4     | <img src="./images/image-4.png" width="200"> | They forget the argument and share a laugh.                   |
+
+### **Schrödinger's Cat-Inspired Robot**
+
+| Order | Image                                        | Description                                                                    |
+| ----- | -------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1     | <img src="./images/image-5.png" width="200"> | The robot usually stays hidden in a corner.                                    |
+| 2     | <img src="./images/image-6.png" width="200"> | Two people start arguing. The robot lights up and moves closer.                |
+| 3     | <img src="./images/image-7.png" width="200"> | When it detects someone, it tries a gentle touch.                              |
+| 4     | <img src="./images/image-8.png" width="200"> | The people are charmed by its look and touch. It purrs, making them feel calm. |
+
+### **Robot Using Cat Tail Movements**
+
+| Order | Image                                         | Description                                                                  |
+| ----- | --------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1     | <img src="./images/image-9.png" width="200">  | The robot looks like a cat’s tail, usually curled up.                        |
+| 2     | <img src="./images/image-10.png" width="200"> | A mother starts scolding her child, who cries. The robot moves between them. |
+| 3     | <img src="./images/image-11.png" width="200"> | Between them, the robot straightens, vibrates softly, and expands a bit.     |
+| 4     | <img src="./images/image-12.png" width="200"> | They notice the robot’s funny movements, touch it, and pause the argument.   |
+
+### **Messy Robot**
+
+| Order | Image                                         | Description                                                              |
+| ----- | --------------------------------------------- | ------------------------------------------------------------------------ |
+| 1     | <img src="./images/image-13.png" width="200"> | The robot is on the table, usually in power-saving mode.                 |
+| 2     | <img src="./images/image-14.png" width="200"> | Two people start arguing. The robot hears it and begins to spin.         |
+| 3     | <img src="./images/image-15.png" width="200"> | The robot keeps spinning, changes shape, and releases some dust.         |
+| 4     | <img src="./images/image-16.png" width="200"> | They stop arguing, approach the robot, and wait for it to stop the dust. |
+
+---
 
 <!-- it’s essential to start from the interaction: What will the defining interaction and gesture be? How will your robot communicate with its surroundings? Do not worry too much about technical possibilities at the moment.
 
