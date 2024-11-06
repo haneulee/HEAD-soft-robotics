@@ -94,7 +94,7 @@ By utilizing a cat's righting reflex, the robot rolls toward people in the house
 
 ### Mochi
 
-Inspired by Schrödinger's cat, the robot usually operates in hidden mode, concealing its presence. During conflict, it transforms into bright and warm colors, approaching people to signal a shift from a state of “non-existence” to “existence.” Through light, vibration, and soft touch, it provides emotional comfort and helps ease tension.
+Inspired by Schrödinger's cat, the robot usually operates in hidden mode, concealing its presence. During conflict, it transforms into bright and warm colors, approaching people. Through light, vibration, and soft touch, it provides emotional comfort and helps ease tension.
 
 | ![](../process/2024-11-06/images/schrod.png) | ![](../process/2024-11-06/images/schrod2.png) |
 | -------------------------------------------- | --------------------------------------------- |
