@@ -12,7 +12,9 @@
 
 ![](./images/cat%20vocalization.png)
 ![](./images/righting%20reflex.png)
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/660px-Schrodingers_cat.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/660px-Schrodingers_cat.svg.png)  
+Schrödinger's cat: a cat, a flask of poison, and a radioactive source connected to a Geiger counter are placed in a sealed box. As illustrated, the quantum description uses a superposition of an alive cat and one that has died.
+
 
 ## Idea Development
 
