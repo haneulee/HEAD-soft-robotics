@@ -12,6 +12,7 @@
 
 ![](./images/cat%20vocalization.png)
 ![](./images/righting%20reflex.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/660px-Schrodingers_cat.svg.png)
 
 ## Idea Development
 
@@ -82,7 +83,7 @@ A soft robot that eases emotions and promotes reconciliation through gentle dist
 | ![](./images/right-reflex.png) | ![](./images/right-reflex2.png) |
 | ------------------------------ | ------------------------------- |
 
-By utilizing a cat's righting reflex, the robot rolls toward people in the household during conflict situations, showing amusing movements based on this reflex. This helps to divert attention and guide the situation toward conflict resolution.
+By utilizing a cat's righting reflex, the robot rolls toward people in the household during conflict situations, showing amusing movements based on this reflex. This helps to divert attention and make them to reconcile.
 
 ### **Schrödinger's Cat-Inspired Robot**
 
@@ -103,7 +104,7 @@ Based on the movements of a cat's tail, this robot sways its tail and approaches
 | ![](./images/messy.png) | ![](./images/messy.gif) |
 | ----------------------- | ----------------------- |
 
-When conflicts arise at home, this robot draws attention with vibrant movements and lights, releasing dust into the air. Alternatively, while people are working to resolve their conflict, the robot creates minor messes around the house to divert their attention and lighten the atmosphere.
+When conflicts arise at home, this robot draws attention with vibrant movements and lights, releasing dust into the air. Alternatively, while people are arguing, the robot creates minor messes around the house to divert their attention and lighten the atmosphere.
 
 ### failures
 
