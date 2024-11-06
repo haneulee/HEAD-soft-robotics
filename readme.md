@@ -33,3 +33,4 @@ Soft robotics is a field of robotics that focuses on the design and development 
 3. [2024-10-18](./process/2024-10-18/Soft%20robotics%20-%20observation2.pdf)
 4. [2024-10-21](./process/2024-10-21/readme.md)
 5. [2024-10-22](./process/2024-10-22/readme.md)
+6. [2024-11-06](./process/2024-11-06/readme.md)
