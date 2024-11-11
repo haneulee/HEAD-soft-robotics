@@ -73,6 +73,11 @@ The **Thomas-Kilmann Conflict Management Model** describes different ways to han
 
 https://vimeo.com/89556173
 
+<video width="640" height="360" controls>
+  <source src="https://vimeo.com/89556173" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 - [The Machine To Be Another](https://miro.com/app/board/uXjVLQwwNbQ=/?moveToWidget=3458764606171108884&cot=14)
 - [Remote Pulse - Rafael Lozano-hemmer](https://www.lozano-hemmer.com/remote_pulse.php)
 
