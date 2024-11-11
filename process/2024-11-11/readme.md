@@ -71,7 +71,7 @@ The **Thomas-Kilmann Conflict Management Model** describes different ways to han
 
 ### 2. A robot that helps you understand other people's perspectives by showing different viewpoints.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/89556173?h=cd58545e71" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+https://vimeo.com/89556173
 
 - [The Machine To Be Another](https://miro.com/app/board/uXjVLQwwNbQ=/?moveToWidget=3458764606171108884&cot=14)
 - [Remote Pulse - Rafael Lozano-hemmer](https://www.lozano-hemmer.com/remote_pulse.php)
