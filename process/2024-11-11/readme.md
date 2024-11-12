@@ -71,21 +71,19 @@ The **Thomas-Kilmann Conflict Management Model** describes different ways to han
 
 ### 2. A robot that helps you understand other people's perspectives by showing different viewpoints.
 
-https://vimeo.com/89556173
+| ![alt text](./images/image-10.png) | ![alt text](./images/image-11.png) |
+| ---------------------------------- | ---------------------------------- |
 
-<video width="640" height="360" controls>
-  <source src="https://vimeo.com/89556173" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-- [The Machine To Be Another](https://miro.com/app/board/uXjVLQwwNbQ=/?moveToWidget=3458764606171108884&cot=14)
+- [The Machine To Be Another](https://beanotherlab.org/home/work/tmtba/)
 - [Remote Pulse - Rafael Lozano-hemmer](https://www.lozano-hemmer.com/remote_pulse.php)
+  - **Remote Pulse** is an interactive installation consisting of two identical pulse-sensing stations that are interconnected over the internet. When a person places their hands on one station automatically the person on the other station feels their pulse, as the plates vibrate in sync with the heartbeat of the remote person, and vice versa.
 
 ### 3. A robot that increase intimacy with others
 
-![alt text](./images/image-7.png)
-
 [Touch](https://www.studioroosegaarde.net/project/touch)
+
+The interactive artwork TOUCH captivates visitors by sensing human connection. When two people join hands, the artwork’s sensor field is activated, triggering a visual explosion that transforms the space into a galaxy of stars  
+![alt text](./images/image-7.png)
 
 ### 4. A robot that gives people who avoid conflict a chance to speak their mind without confrontation.
 
