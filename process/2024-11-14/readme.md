@@ -57,6 +57,14 @@ Finally, these two prototypes can be combined to create the final shape. We can 
 | ![alt text](./images/IMG_5613.png) | ![alt text](./images/IMG_5612.png) |
 | ---------------------------------- | ---------------------------------- |
 
+### Behaviors
+
+| Order | Volume level | Behaviors                                                                               |
+| ----- | ------------ | --------------------------------------------------------------------------------------- |
+| 1     | None         | When there is no sound, it doesn't move at all (sleep mode)                             |
+| 2     | Small        | When a small sound is heard, its individual wave shapes start to move and undulate.     |
+| 3     | Big          | As the sound gets louder, its middle surface will undulate and move just like swimming. |
+
 ## Next Steps
 
 The next step will be to attach different wave shapes onto the hemisphere-shaped structure.
