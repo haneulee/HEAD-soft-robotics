@@ -4,6 +4,15 @@
 
 Cats may seem passive, but they are asking for attention. They just bring other emotions to you. It doesn't have to be when we are fithing with someone. Cats sleep all day but when they see you arrive and start being active. I plan to create prototypes that showcase different responses based on sound volume, using folding and weaving techniques.
 
+## Rhino practice
+
+| ![alt text](./images/rhino-1.png) | ![alt text](./images/rhino-2.png) |
+| --------------------------------- | --------------------------------- |
+
+## Reference
+
+![alt text](./images/reference.png)
+
 ## Prototypes
 
 ### Prototype 1
@@ -57,6 +66,11 @@ Finally, these two prototypes can be combined to create the final shape. We can 
 | ![alt text](./images/IMG_5613.png) | ![alt text](./images/IMG_5612.png) |
 | ---------------------------------- | ---------------------------------- |
 
+This is a different version of the final prototype. I attached different wave shapes onto the hemisphere-shaped structure.
+
+| ![alt text](./images/IMG_5625.png) | ![alt text](./images/IMG_5626.png) |
+| ---------------------------------- | ---------------------------------- |
+
 ### Behaviors
 
 | Order | Volume level | Behaviors                                                                               |
@@ -64,7 +78,3 @@ Finally, these two prototypes can be combined to create the final shape. We can 
 | 1     | None         | When there is no sound, it doesn't move at all (sleep mode)                             |
 | 2     | Small        | When a small sound is heard, its individual wave shapes start to move and undulate.     |
 | 3     | Big          | As the sound gets louder, its middle surface will undulate and move just like swimming. |
-
-## Next Steps
-
-The next step will be to attach different wave shapes onto the hemisphere-shaped structure.
