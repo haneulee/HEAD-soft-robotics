@@ -15,6 +15,12 @@ Cats may seem passive, but they are asking for attention. They just bring other 
 
 ## Prototypes
 
+![alt text](./images/IMG_5632.png)
+![alt text](./images/IMG_5640.png)
+![alt text](./images/IMG_5644.png)
+![alt text](./images/IMG_5637.png)
+![alt text](./images/IMG_5645.png)
+
 ### Prototype 1
 
 A flexible paper prototype with simple lines. It has volume but is a bit fragile.
@@ -45,7 +51,7 @@ Next, I removed the paper in the middle that supported the wave shape on both si
 
 The final prototype is designed to gradually increase in volume, creating a spherical 3D shape.
 
-| ![alt text](./images/IMG_5594.png) | ![alt text](./images/IMG_5595.png) | ![alt text](./images/IMG_5597.png) |
+| ![alt text](./images/IMG_5594.png) | ![alt text](./images/IMG_5597.png) | ![alt text](./images/IMG_5595.png) |
 | ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 Next, I added gradual volume and different wave shapes to each line to create a 3D form resembling a living creature.
@@ -78,3 +84,7 @@ This is a different version of the final prototype. I attached different wave sh
 | 1     | None         | When there is no sound, it doesn't move at all (sleep mode)                             |
 | 2     | Small        | When a small sound is heard, its individual wave shapes start to move and undulate.     |
 | 3     | Big          | As the sound gets louder, its middle surface will undulate and move just like swimming. |
+
+## Next Steps
+
+In Prototype 4, I will think more about when the volume becomes larger, like a balloon or pufferfish and how it can move. I will also consider how to make the prototype more interactive and how to make the wave shapes more visible. Cats react to very small sounds through their ears, so I will observe how cats react to different sounds and how they move their ears.
