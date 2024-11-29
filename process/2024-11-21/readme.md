@@ -44,6 +44,39 @@
 | **Color: RGB**                | Changes the color of the points (paper lines are tinted, synchronized with movements) | **Movement: Position**  |
 | **Color: Brightness**         | Adjusts the wave intensity and visual emphasis according to brightness changes        | **Visual Feedback**     |
 
+---
+
+1. First prototype
+
+- Input:
+  - sound volume
+    - sound length (short or long)
+    - sound intensity (loud or quiet)
+    - sound pitch (high or low)
+- Output:
+  - the position of 3 points
+  - Speed of the position of 3 points
+  - Shaking of the whole prototype
+  - Color of the prototype
+
+2. Second prototype
+
+like a slinky toy or cat tail
+
+<!-- observe cat tail movements -->
+<!-- 4 dir mapping -->
+
+- Input:
+  - sound volume
+    - sound length (short or long)
+    - sound intensity (loud or quiet)
+    - sound pitch (high or low)
+- Output:
+  - reduce/extend the length of the prototype
+  - vent on the right/left side
+  - Shaking of the whole prototype
+  - Color of the prototype
+
 ## Reference
 
 - https://www.youtube.com/watch?v=ar7dMtsA-dY
