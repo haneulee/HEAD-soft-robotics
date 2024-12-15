@@ -53,4 +53,4 @@ function mouseDragged() {
 
 ## Prototype 3D Model Color Combinations
 
-![alt text](<./images/스크린샷 2024-12-06 13.36.04.png>) ![alt text](<./images/스크린샷 2024-12-06 13.36.13.png>) ![alt text](<./images/스크린샷 2024-12-06 13.39.09.png>) ![alt text](<./images/스크린샷 2024-12-06 13.40.20.png>) ![alt text](<./images/스크린샷 2024-12-06 13.42.01.png>) ![alt text](<./images/스크린샷 2024-12-06 13.43.16.png>)
+![alt text](<./images/스크린샷 2024-12-06 13.36.13.png>) ![alt text](<./images/스크린샷 2024-12-06 13.39.09.png>) ![alt text](<./images/스크린샷 2024-12-06 13.40.20.png>) ![alt text](<./images/스크린샷 2024-12-06 13.42.01.png>) ![alt text](<./images/스크린샷 2024-12-06 13.43.16.png>)

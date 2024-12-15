@@ -72,4 +72,5 @@ void loop() {
 
 I experimented with different paper prototypes to find perfect motion presets for the final prototype. I tried various shapes and sizes of paper to find the best motion presets. Here are some of the different paper prototypes I tried:
 
-![alt text](./images/IMG_5887.jpeg) ![alt text](./images/IMG_5886.jpeg)
+| ![alt text](./images/IMG_5887.jpeg) | ![alt text](./images/IMG_5886.jpeg) |
+| ----------------------------------- | ----------------------------------- |
