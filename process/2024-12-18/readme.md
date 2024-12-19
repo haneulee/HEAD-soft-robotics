@@ -54,6 +54,8 @@
 
 ## Servo motor with potentiometer
 
+![alt text](./images/circuit-testing.png)
+
 ```arduino
 #include <Servo.h>
 
