@@ -41,3 +41,18 @@ Soft robotics is a field of robotics that focuses on the design and development 
 11. [2024-11-20](./process/2024-11-20/readme.md)
 12. [2024-11-21](./process/2024-11-21/readme.md)
 13. [2024-11-25](./process/2024-11-25/readme.md)
+14. [2024-11-29](./process/2024-11-29/readme.md)
+15. [2024-12-05](./process/2024-12-05/readme.md)
+16. [2024-12-09](./process/2024-12-09/readme.md)
+17. [2024-12-10](./process/2024-12-10/readme.md)
+18. [2024-12-12](./process/2024-12-12/readme.md)
+19. [2024-12-18](./process/2024-12-18/readme.md)
+20. [2025-01-10](./process/2025-01-10/readme.md)
+21. [2025-01-14](./process/2025-01-14/readme.md)
+22. [2025-01-15: Jury](./process/2025-01-15/readme.md)
+
+## Presentation
+
+1. [Presentation 1](./presentation/2024-11-07.md)
+2. [Presentation 2](./presentation/2024-12-04.md)
+3. [Jury Presentation](./process/2025-01-15/250115_HEAD-MD1_Soft-Robots_Haneul-Farmanfarmaian_Felimo.pdf)
